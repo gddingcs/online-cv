@@ -22,8 +22,8 @@ pic: nate.png  #place a 100x100 picture inside /assets/images/ folder and provid
 #sidebar links
 email: gd.ding.cs@gmail.com
 phone: 852 5443 9020
-website: blog.webjeda.com #do not add http://
+#website: blog.webjeda.com #do not add http://
 linkedin: gdding
 github: gddingcs
-twitter: '@twittername'
+#twitter: '@twittername'
 
