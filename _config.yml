@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #
@@ -15,10 +15,10 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Guodong DING
-tagline: Full Stack Developer
+name: 'DING, Guodong'
+#tagline: Full Stack Developer
 pic: nate.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+transcript : 'Transcript_DING_Guodong.pdf'
 #sidebar links
 email: gd.ding.cs@gmail.com
 phone: 852 5443 9020
