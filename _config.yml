@@ -16,7 +16,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: 'DING, Guodong'
-#tagline: Full Stack Developer
+tagline: 丁国栋 丁國棟
 pic: nate.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 transcript : 'Transcript_DING_Guodong.pdf'
 #sidebar links
